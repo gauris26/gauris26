@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gauris</h1>
+<h1 align="center">Hey 👋, I'm Gauris</h1>
 <h3 align="center">A passionate mobile developer from Dominican Republic</h3>
 
 - 🔭 I’m currently working on **flutter_animarker**
